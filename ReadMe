@@ -1,0 +1,8 @@
+Download or clone this repository
+Open First.sln
+It may show that some projects were not able to be loaded
+Right-click on First.sln -> Choose Add Existing Project -> Choose the required .csproj
+
+OPTION 2
+Open any one .csproj in Visual Studio
+Right-click on First.sln -> Choose Add Existing Project -> Choose the required .csproj
