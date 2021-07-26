@@ -1,0 +1,13 @@
+F:\Trainings\C#\DanskeCSharp\DelLambda\bin\Debug\netcoreapp3.1\DelLambda.exe
+F:\Trainings\C#\DanskeCSharp\DelLambda\bin\Debug\netcoreapp3.1\DelLambda.deps.json
+F:\Trainings\C#\DanskeCSharp\DelLambda\bin\Debug\netcoreapp3.1\DelLambda.runtimeconfig.json
+F:\Trainings\C#\DanskeCSharp\DelLambda\bin\Debug\netcoreapp3.1\DelLambda.runtimeconfig.dev.json
+F:\Trainings\C#\DanskeCSharp\DelLambda\bin\Debug\netcoreapp3.1\DelLambda.dll
+F:\Trainings\C#\DanskeCSharp\DelLambda\bin\Debug\netcoreapp3.1\DelLambda.pdb
+F:\Trainings\C#\DanskeCSharp\DelLambda\obj\Debug\netcoreapp3.1\DelLambda.csproj.AssemblyReference.cache
+F:\Trainings\C#\DanskeCSharp\DelLambda\obj\Debug\netcoreapp3.1\DelLambda.AssemblyInfoInputs.cache
+F:\Trainings\C#\DanskeCSharp\DelLambda\obj\Debug\netcoreapp3.1\DelLambda.AssemblyInfo.cs
+F:\Trainings\C#\DanskeCSharp\DelLambda\obj\Debug\netcoreapp3.1\DelLambda.csproj.CoreCompileInputs.cache
+F:\Trainings\C#\DanskeCSharp\DelLambda\obj\Debug\netcoreapp3.1\DelLambda.dll
+F:\Trainings\C#\DanskeCSharp\DelLambda\obj\Debug\netcoreapp3.1\DelLambda.pdb
+F:\Trainings\C#\DanskeCSharp\DelLambda\obj\Debug\netcoreapp3.1\DelLambda.genruntimeconfig.cache

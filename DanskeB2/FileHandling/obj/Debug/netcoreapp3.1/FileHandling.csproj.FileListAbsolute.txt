@@ -1,0 +1,17 @@
+F:\Trainings\C#\DanskeCSharp\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.exe
+F:\Trainings\C#\DanskeCSharp\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.deps.json
+F:\Trainings\C#\DanskeCSharp\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.json
+F:\Trainings\C#\DanskeCSharp\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.dev.json
+F:\Trainings\C#\DanskeCSharp\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.dll
+F:\Trainings\C#\DanskeCSharp\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.pdb
+F:\Trainings\C#\DanskeCSharp\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfoInputs.cache
+F:\Trainings\C#\DanskeCSharp\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfo.cs
+F:\Trainings\C#\DanskeCSharp\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.CoreCompileInputs.cache
+F:\Trainings\C#\DanskeCSharp\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.dll
+F:\Trainings\C#\DanskeCSharp\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.pdb
+F:\Trainings\C#\DanskeCSharp\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.genruntimeconfig.cache
+F:\Trainings\C#\DanskeCSharp\FileHandling\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Trainings\C#\DanskeCSharp\FileHandling\bin\Debug\netcoreapp3.1\BL.dll
+F:\Trainings\C#\DanskeCSharp\FileHandling\bin\Debug\netcoreapp3.1\BL.pdb
+F:\Trainings\C#\DanskeCSharp\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.CopyComplete
+F:\Trainings\C#\DanskeCSharp\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.AssemblyReference.cache

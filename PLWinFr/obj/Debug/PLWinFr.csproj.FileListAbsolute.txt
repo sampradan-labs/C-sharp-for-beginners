@@ -1,0 +1,13 @@
+F:\Trainings\C#\DanskeCSharp\PLWinFr\bin\Debug\PLWinFr.exe.config
+F:\Trainings\C#\DanskeCSharp\PLWinFr\bin\Debug\PLWinFr.exe
+F:\Trainings\C#\DanskeCSharp\PLWinFr\bin\Debug\PLWinFr.pdb
+F:\Trainings\C#\DanskeCSharp\PLWinFr\bin\Debug\BL.dll
+F:\Trainings\C#\DanskeCSharp\PLWinFr\bin\Debug\BL.pdb
+F:\Trainings\C#\DanskeCSharp\PLWinFr\obj\Debug\PLWinFr.csprojAssemblyReference.cache
+F:\Trainings\C#\DanskeCSharp\PLWinFr\obj\Debug\PLWinFr.Form1.resources
+F:\Trainings\C#\DanskeCSharp\PLWinFr\obj\Debug\PLWinFr.Properties.Resources.resources
+F:\Trainings\C#\DanskeCSharp\PLWinFr\obj\Debug\PLWinFr.csproj.GenerateResource.cache
+F:\Trainings\C#\DanskeCSharp\PLWinFr\obj\Debug\PLWinFr.csproj.CoreCompileInputs.cache
+F:\Trainings\C#\DanskeCSharp\PLWinFr\obj\Debug\PLWinFr.csproj.CopyComplete
+F:\Trainings\C#\DanskeCSharp\PLWinFr\obj\Debug\PLWinFr.exe
+F:\Trainings\C#\DanskeCSharp\PLWinFr\obj\Debug\PLWinFr.pdb
